@@ -1,3 +1,3 @@
 # parag-dev-code
 Parag's Development Code
-This Project hosts all the Akamai-as-code
+This Project hosts Coding projects for personal use. 
